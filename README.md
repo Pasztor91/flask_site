@@ -3,7 +3,7 @@ Használata:
 Elősször telepítsük fel a python progomot az alábbi link segítségével:
 https://www.python.org/ftp/python/3.7.2/python-3.7.2.exe
 
-Aztán a mabbában található egy txt fájl amiben megtalálható milyen ezközök kellenek a fútatásához. Az elábbi parancsot a windows parancsorába kell beírni:
+Aztán a mabbában található egy txt fájl amiben megtalálható milyen ezközök kellenek a fútatásához. Az alábbi parancsot a windows parancsorába kell beírni:
 
 pip install -r requirements.txt
 
