@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="content-section">
+        <form method="POST" action="">
+            {{ form.hidden_tag() }}
+            <fieldset class="form-group">
+                <legend class="border-bottom mb-4">New Leave</legend>
+                <form>
+    <div class="nativeDatePicker">
+      <label for="leave">Choose when you want to take a day off:</label>
+      <input type="date" id="leave" name="leave">
+      <span class="validity"></span>
+    </div>
+  </form>
+                
+            </fieldset>
+            
+        </form>
+    </div>
+
+{% endblock content %}
