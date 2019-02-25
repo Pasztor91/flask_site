@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Program futatása:
 
-cd "könyvtárszerkezet"/flask_site
+cd "könyvtárszerkezet ahol az aplikáció megtalálható"/flask_site
 
 python run.py
 
