@@ -4,7 +4,7 @@ Elősször telepítsük fel a python progomot az alábbi link segítségével:
 
 https://www.python.org/ftp/python/3.7.2/python-3.7.2.exe
 
-A PIP installálóhoz tölse le a get-pip.py-t az alábbi módon:
+A PIP installálóhoz tölse le a get-pip.py-t az alábbi módon parancsoron keresztül:
 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
